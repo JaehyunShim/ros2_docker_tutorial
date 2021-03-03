@@ -1,11 +1,11 @@
 # Build:
-# $ docker build --rm -f Dockerfile -t jshim/ros2_base .
+# $ docker build --rm -f Dockerfile -t jshim/ros2_single_container .
 #
 # Run:
-# $ docker run -it --rm jshim/ros2_base
+# $ docker run -it --rm jshim/ros2_single_container
 #
 # Pull: (Not supported yet)
-# $ docker pull jshim/ros2_base
+# $ docker pull jshim/ros2_single_container
 
 FROM osrf/ros:foxy-desktop
 MAINTAINER jhshim@robotis.com
