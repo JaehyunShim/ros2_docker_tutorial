@@ -4,7 +4,7 @@
 # Run:
 # $ rocker --x11 --nvidia --name ros2_rviz jshim/ros2_rviz
 #
-# Pull: (Not supported yet)
+# Pull:
 # $ docker pull jshim/ros2_rviz
 
 FROM osrf/ros:foxy-desktop

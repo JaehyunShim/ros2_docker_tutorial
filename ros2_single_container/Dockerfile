@@ -4,7 +4,7 @@
 # Run:
 # $ docker run -it --rm jshim/ros2_single_container
 #
-# Pull: (Not supported yet)
+# Pull:
 # $ docker pull jshim/ros2_single_container
 
 FROM osrf/ros:foxy-desktop

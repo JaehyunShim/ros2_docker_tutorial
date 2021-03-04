@@ -4,7 +4,7 @@
 # Run:
 # $ rocker --x11 --nvidia --name ros2_gazebo jshim/ros2_gazebo
 #
-# Pull: (Not supported yet)
+# Pull:
 # $ docker pull jshim/ros2_gazebo
 
 FROM osrf/ros:foxy-desktop
