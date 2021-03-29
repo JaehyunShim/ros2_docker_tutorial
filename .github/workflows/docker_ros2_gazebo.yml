@@ -1,6 +1,6 @@
 # https://github.com/gramaziokohler/ros_docker/blob/master/.github/workflows/build-ros-base.yml
 
-name: Docker Image CI
+name: Docker Build and Push
 
 on:
   push:
